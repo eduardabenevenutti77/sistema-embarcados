@@ -25,5 +25,5 @@ sistemas embarcados:
      - camada de aplicação software (opcional); a
 
     CPU: realiza cálculos para o computador funcionar, trabalha com o sistema binário, entrada - processamento - saída, ULA (unidade de lógica e aritmética) - trabalha com pontos flutuantes;
-    
 
+    gm
